@@ -1,5 +1,19 @@
 # qa-empleo
 
+Table of Contents
+=================
+
+   * [Rotación histórica de los empleados de la compañía](#rotación-histórica-de-los-empleados-de-la-compañía)
+   * [Detalles de la oferta](#detalles-de-la-oferta)
+      * [1. Tipo de contrato](#1-tipo-de-contrato)
+      * [2. Ubicación del cliente respecto a tu casa](#2-ubicación-del-cliente-respecto-a-tu-casa)
+      * [3. Requerimientos del cliente](#3-requerimientos-del-cliente)
+      * [4. Vacaciones](#4-vacaciones)
+      * [5. Espectativas salariales](#5-espectativas-salariales)
+      * [6. Horario](#6-horario)
+      * [7. Teletrabajo (si tiene sentido en la categoría profesional de la oferta)](#7-teletrabajo-si-tiene-sentido-en-la-categoría-profesional-de-la-oferta)
+      
+      
 En este proyecto se medirá el índice de fiabilidad de una empresa y las ofertas de trabajo que publican.
 El script de python procesará los datos introducidos de la siguiente manera y devolverá un mensaje indicando si la empresa
 es apta o no:
